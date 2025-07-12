@@ -27,3 +27,5 @@ We are a research lab focused on:
 
 - **Dr. Dong**, PI
 - **Bohan Xiao**, Ph.D. candidate
+
+👉 [See all projects](projects.md)
