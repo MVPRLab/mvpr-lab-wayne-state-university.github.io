@@ -1,5 +1,5 @@
-title: Vision & AI Lab
-description: Research on vision, AI, and multimodal learning.
+title: MVPR Lab
+description: The Machine Vision and Pattern Recognition Lab at Wayne State University. We focus on generative AI, medical imaging, and model compression.
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme

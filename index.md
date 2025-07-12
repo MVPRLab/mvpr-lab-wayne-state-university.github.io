@@ -9,7 +9,7 @@ We are the **Machine Vision and Pattern Recognition (MVPR) Lab** at Wayne State 
 
 - Medical image segmentation and diagnosis
 - Diffusion models for image-to-image translation
-- Multimodal learning and model compression
+- Model compression
 - Epilepsy seizure prediction and brain network analysis
 
 ---
