@@ -52,7 +52,7 @@ This page showcases the recent works of MVPR Lab members, organized by topic and
 - **Tags:** COVID Forecasting
 
 ---
-## 🧵 Model Compression
+<!-- ## 🧵 Model Compression
 #### 🔸 Octave Deep Compression (ODC)
 - **GitHub:** [kisonho/Oct-Conv](https://github.com/kisonho/Oct-Conv)  
 - **Tags:** Model Compression, Pruning, Quantization
@@ -67,10 +67,10 @@ This page showcases the recent works of MVPR Lab members, organized by topic and
 
 #### 🔸 Transferring Lottery Tickets in Computer Vision Models: a Dynamic Pruning Approach
 - **GitHub:** [kisonho/tlt](https://github.com/kisonho/tlt)  
-- **Tags:** Unstructured Pruning, Transfer Learning
+- **Tags:** Unstructured Pruning, Transfer Learning -->
 ## ⚙️ Frameworks, Utilities
 
-### 🔹 TorchManager Framework (2023)
+## 🔹 TorchManager Framework (2023)
 - **GitHub:** [kisonho/torchmanager](https://github.com/kisonho/torchmanager)  
 - **Tags:** PyTorch, Utilities, Training Framework
 

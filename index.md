@@ -9,7 +9,6 @@ We are the **Machine Vision and Pattern Recognition (MVPR) Lab** at Wayne State 
 
 - Medical image segmentation and diagnosis
 - Diffusion models for image-to-image translation
-- Model compression
 - Epilepsy seizure prediction and brain network analysis
 
 ---
@@ -29,8 +28,7 @@ Explore our recent contributions in medical imaging, diffusion models, epilepsy 
 
 ---
 
-
-## 👥 Lab Members
+<!-- ## 👥 Lab Members
 ### 🟢 Current Faculty
 
 #### **Prof. Ming Dong**
@@ -41,9 +39,9 @@ Explore our recent contributions in medical imaging, diffusion models, epilepsy 
 
 #### **Prof. Pei‑Yong Wang**
 - Professor, Department of Mathematics, WSU  
-- Expertise: PDEs, free-boundary problems, applied mathematics  
+- Expertise: PDEs, free-boundary problems, applied mathematics   -->
 
-### 🟢 Current Members
+<!-- ### 🟢 Current Members
 - **Behzad Hejrati** — Ph.D. Candidate  
   _Conditional diffusion models, medical segmentation_
 - **Bohan Xiao** — Ph.D. Candidate  
@@ -60,7 +58,7 @@ Explore our recent contributions in medical imaging, diffusion models, epilepsy 
   _Epilepsy prediction, GNNs, self-distillation models_
 
 - **Qisheng (Robert) He** — Ph.D.  
-  _Medical segmentation, compression, pruning, software frameworks_
+  _Medical segmentation, compression, pruning, software frameworks_ -->
 
 ---
 
@@ -69,6 +67,8 @@ Explore our recent contributions in medical imaging, diffusion models, epilepsy 
 Wayne State University  
 Department of Computer Science  
 Detroit, MI, USA  
-[Visit Our GitHub](https://github.com/MVPRLab)
+Email: mdong@wayne.edu
+
+<!-- [Visit Our GitHub](https://github.com/MVPRLab) -->
 
 ---
